@@ -14,7 +14,7 @@ The objective is to demonstrate a complete data analytics workflow, from initial
 
 ## Dashboard Preview
 
-![Power BI Customer Behavior Dashboard](images\Dashboard.PNG)
+![Power BI Customer Behavior Dashboard](images/dashboard.PNG)
 
 *Power BI dashboard summarizing customer purchasing behavior and retention-related metrics.*
 
