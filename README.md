@@ -14,7 +14,7 @@ The objective is to demonstrate a complete data analytics workflow, from initial
 
 ## Dashboard Preview
 
-![Power BI Customer Behavior Dashboard](images/dashboard.PNG)
+![Power BI Customer Behavior Dashboard](images/Dashboard.PNG)
 
 *Power BI dashboard summarizing customer purchasing behavior and retention-related metrics.*
 
@@ -145,7 +145,7 @@ ecommerce-customer-behavior-analysis/
 ├── README.md
 ├── ecommerce_customer_behavior_analysis.ipynb
 └── images/
-    ├── Dashboard.png
+    ├── Dashboard.PNG
     ├── login_frequency_vs_days_since_last_purchase.png
     ├── total_purchases_vs_social_media_score.png
     ├── total_purchases_vs_discount_usage_rate.png
